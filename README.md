@@ -1,3 +1,6 @@
+HaskellPractice
+==============
+
 This project collects some simple Haskell codes for educational purpose.  
 You can run *ghci* and then type *:load (filename.hs)* to load each files in Haskell interpreter.
 
